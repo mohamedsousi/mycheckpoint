@@ -1,0 +1,55 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "roboto";
+}
+
+h1 {
+    color: blueviolet;
+    border: dotted DarkGoldenRod 10px;
+    padding: 20px;
+    margin: 40px;
+}
+
+.paragraph {
+    color: black;
+    text-align:left;
+    text-decoration:underline;
+
+}
+
+
+.paragrap {
+    color: blue;
+}
+ul{
+    
+    width:100vw;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: bisque ;
+}
+.navbar {
+    display: flex;
+    justify-content:left;
+    align-items: center ;
+    gap: 100px;
+    padding: 10px;
+    padding-left: 200px;
+    background-color: aquamarine;
+    width: 100vw ;
+}  
+.c_age{
+    color: aqua;
+}
+#mg{
+    color: blueviolet;
+}
+
+
+.di {
+    margin: 50px ;
+}
